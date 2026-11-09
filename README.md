@@ -1,0 +1,26 @@
+# Lili's Plugins
+
+Three Dalamud plugins made for a few friends. They are not on the official list, so they install through a custom repository.
+
+## Install
+
+1. In game, type `/xlsettings` and open the **Experimental** tab.
+2. Under **Custom Plugin Repositories**, paste this link and click the **+**:
+   ```
+   https://raw.githubusercontent.com/ThePoyer/LilisPlugins/main/repo.json
+   ```
+3. Click **Save and Close**, then open `/xlplugins` and search for "Lili".
+
+Updates show up in `/xlplugins` like any other plugin.
+
+## The plugins
+
+**Lili's Fate** (`/lilifate`) farms FATEs in the field zones of Shadowbringers, Endwalker and Dawntrail. You need vnavmesh, RotationSolver Reborn and BossModReborn installed, and the game client in English. AutoRetainer, Lifestream and Lili's Auto Pinch are optional. Spending bicolor gemstones starts off. If you turn it on and the vendor isn't unlocked for you, nothing is bought and the farm stops in town.
+
+**Lili's Auto Pinch** (`/lilipinch`) adds an Auto Pinch button to the retainer list and to the sell list. It undercuts your listings and ignores bait prices. Turn Dagobert off first, or both buttons end up in the same spot.
+
+**Lili's Patch of All the Things** (`/lilipatch`) has small fixes for other plugins, each with its own toggle. All of them start off.
+
+## Good to know
+
+Automation breaks the game's terms of service. Use it with moderation, and don't leave it running for hours while you're away.

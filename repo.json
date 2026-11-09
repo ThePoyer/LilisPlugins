@@ -1,0 +1,78 @@
+[
+  {
+    "Author": "Lili",
+    "Name": "Lili's Fate",
+    "InternalName": "LilisFate",
+    "AssemblyVersion": "1.0.3.0",
+    "Description": "Farms FATEs in the field zones of Shadowbringers, Endwalker and Dawntrail, and can spend your bicolor gemstones before the cap. Open with /lilifate. Needs vnavmesh, RotationSolver Reborn and BossModReborn.",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "fate"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "FATE farming that moves like a person.",
+    "AcceptsFeedback": true,
+    "RepoUrl": "https://github.com/ThePoyer/LilisPlugins",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/ThePoyer/LilisPlugins/main/plugins/LilisFate/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/ThePoyer/LilisPlugins/main/plugins/LilisFate/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/ThePoyer/LilisPlugins/main/plugins/LilisFate/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "LastUpdate": 1794192472
+  },
+  {
+    "Author": "Lili",
+    "Name": "Lili's Auto Pinch",
+    "InternalName": "LilisAutoPinch",
+    "AssemblyVersion": "0.3.2.0",
+    "Description": "Adds an Auto Pinch button to the retainer list and to the sell list. Skips bait listings (like 1 gil before 1,900). Open with /lilipinch.",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "retainer",
+      "market"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Undercuts your retainer listings without falling for bait prices.",
+    "AcceptsFeedback": true,
+    "RepoUrl": "https://github.com/ThePoyer/LilisPlugins",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/ThePoyer/LilisPlugins/main/plugins/LilisAutoPinch/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/ThePoyer/LilisPlugins/main/plugins/LilisAutoPinch/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/ThePoyer/LilisPlugins/main/plugins/LilisAutoPinch/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "LastUpdate": 1794192439
+  },
+  {
+    "Author": "Lili",
+    "Name": "Lili's Patch of All the Things",
+    "InternalName": "LilisPatchOfAllTheThings",
+    "AssemblyVersion": "0.0.0.5",
+    "Description": "Each patch has its own toggle and starts off. Open with /lilipatch.",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "patch"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "On-off patches for the plugins Lili uses.",
+    "AcceptsFeedback": true,
+    "RepoUrl": "https://github.com/ThePoyer/LilisPlugins",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/ThePoyer/LilisPlugins/main/plugins/LilisPatchOfAllTheThings/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/ThePoyer/LilisPlugins/main/plugins/LilisPatchOfAllTheThings/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/ThePoyer/LilisPlugins/main/plugins/LilisPatchOfAllTheThings/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "LastUpdate": 1794192440
+  }
+]
