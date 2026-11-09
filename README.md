@@ -1,6 +1,8 @@
 # Lili's Plugins
 
-Three Dalamud plugins made for a few friends. They are not on the official list, so they install through a custom repository.
+Dalamud plugins I made for myself and a few friends. They are private and not on the official list, so they install through a custom repository.
+
+If you got here some other way: feedback and criticism are welcome, but I don't take requests.
 
 ## Install
 
