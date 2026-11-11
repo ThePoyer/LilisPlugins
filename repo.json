@@ -3,7 +3,7 @@
     "Author": "Lili",
     "Name": "Lili's Fate",
     "InternalName": "LilisFate",
-    "AssemblyVersion": "1.0.3.0",
+    "AssemblyVersion": "1.1.0.0",
     "Description": "Farms FATEs in the field zones of Shadowbringers, Endwalker and Dawntrail, and can spend your bicolor gemstones before the cap. Open with /lilifate. Needs vnavmesh, RotationSolver Reborn and BossModReborn.",
     "ApplicableVersion": "any",
     "Tags": [
@@ -22,14 +22,14 @@
     "DownloadLinkTesting": "https://raw.githubusercontent.com/ThePoyer/LilisPlugins/main/plugins/LilisFate/latest.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1794192472
+    "LastUpdate": 1794427214
   },
   {
     "Author": "Lili",
     "Name": "Lili's Auto Pinch",
     "InternalName": "LilisAutoPinch",
-    "AssemblyVersion": "0.3.2.0",
-    "Description": "Adds an Auto Pinch button to the retainer list and to the sell list. Skips bait listings (like 1 gil before 1,900). Open with /lilipinch.",
+    "AssemblyVersion": "0.4.5.0",
+    "Description": "Adds an Auto Pinch button to the retainer list and to the sell list. Skips bait listings (like 1 gil before 1,900). Optionally compares with the whole region through Universalis and lists at the average when the region is much cheaper. Open with /lilipinch.",
     "ApplicableVersion": "any",
     "Tags": [
       "retainer",
@@ -48,7 +48,7 @@
     "DownloadLinkTesting": "https://raw.githubusercontent.com/ThePoyer/LilisPlugins/main/plugins/LilisAutoPinch/latest.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1794192439
+    "LastUpdate": 1794427296
   },
   {
     "Author": "Lili",
@@ -73,6 +73,6 @@
     "DownloadLinkTesting": "https://raw.githubusercontent.com/ThePoyer/LilisPlugins/main/plugins/LilisPatchOfAllTheThings/latest.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1794192440
+    "LastUpdate": 1794427282
   }
 ]
