@@ -22,7 +22,8 @@
     "DownloadLinkTesting": "https://raw.githubusercontent.com/ThePoyer/LilisPlugins/main/plugins/LilisFate/latest.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1794507166
+    "LastUpdate": 1794507166,
+    "IconUrl": "https://raw.githubusercontent.com/ThePoyer/LilisPlugins/main/plugins/LilisFate/icon.png"
   },
   {
     "Author": "Lili",
@@ -48,7 +49,8 @@
     "DownloadLinkTesting": "https://raw.githubusercontent.com/ThePoyer/LilisPlugins/main/plugins/LilisAutoPinch/latest.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1794427296
+    "LastUpdate": 1794427296,
+    "IconUrl": "https://raw.githubusercontent.com/ThePoyer/LilisPlugins/main/plugins/LilisAutoPinch/icon.png"
   },
   {
     "Author": "Lili",
@@ -73,6 +75,7 @@
     "DownloadLinkTesting": "https://raw.githubusercontent.com/ThePoyer/LilisPlugins/main/plugins/LilisPatchOfAllTheThings/latest.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1794427282
+    "LastUpdate": 1794427282,
+    "IconUrl": "https://raw.githubusercontent.com/ThePoyer/LilisPlugins/main/plugins/LilisPatchOfAllTheThings/icon.png"
   }
 ]
