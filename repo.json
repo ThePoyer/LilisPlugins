@@ -29,8 +29,8 @@
     "Author": "Lili",
     "Name": "Lili's Auto Pinch",
     "InternalName": "LilisAutoPinch",
-    "AssemblyVersion": "0.4.5.0",
-    "Description": "Adds an Auto Pinch button to the retainer list and to the sell list. Skips bait listings (like 1 gil before 1,900). Optionally compares with the whole region through Universalis and lists at the average when the region is much cheaper. Open with /lilipinch.",
+    "AssemblyVersion": "0.4.8.0",
+    "Description": "Adds an Auto Pinch button to the retainer list and to the sell list. Skips bait listings (like 1 gil before 1,900). Optionally compares with the whole region through Universalis and lists at the average when the region is much cheaper. Open with /lla.",
     "ApplicableVersion": "any",
     "Tags": [
       "retainer",
@@ -49,7 +49,7 @@
     "DownloadLinkTesting": "https://raw.githubusercontent.com/ThePoyer/LilisPlugins/main/plugins/LilisAutoPinch/latest.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1794427296,
+    "LastUpdate": 1794681311,
     "IconUrl": "https://raw.githubusercontent.com/ThePoyer/LilisPlugins/main/plugins/LilisAutoPinch/icon.png"
   },
   {
