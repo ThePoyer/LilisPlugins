@@ -56,7 +56,7 @@
     "Author": "Lili",
     "Name": "Lili's Patch of All the Things",
     "InternalName": "LilisPatchOfAllTheThings",
-    "AssemblyVersion": "0.0.0.5",
+    "AssemblyVersion": "0.0.0.6",
     "Description": "Each patch has its own toggle and starts off. Open with /lilipatch.",
     "ApplicableVersion": "any",
     "Tags": [
@@ -75,7 +75,7 @@
     "DownloadLinkTesting": "https://raw.githubusercontent.com/ThePoyer/LilisPlugins/main/plugins/LilisPatchOfAllTheThings/latest.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1794427282,
+    "LastUpdate": 1794666298,
     "IconUrl": "https://raw.githubusercontent.com/ThePoyer/LilisPlugins/main/plugins/LilisPatchOfAllTheThings/icon.png"
   }
 ]
