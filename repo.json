@@ -77,5 +77,32 @@
     "IsTestingExclusive": false,
     "LastUpdate": 1794681309,
     "IconUrl": "https://raw.githubusercontent.com/ThePoyer/LilisPlugins/main/plugins/LilisPatchOfAllTheThings/icon.png"
+  },
+  {
+    "Author": "Lili",
+    "Name": "Lili's Little Tricks",
+    "InternalName": "LilisLittleTricks",
+    "AssemblyVersion": "0.0.0.1",
+    "Description": "Each trick has its own toggle and starts off. First trick: log in automatically when the game starts and after a disconnect. Open with /llt.",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "qol",
+      "login"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Small quality of life tricks for the game itself.",
+    "AcceptsFeedback": true,
+    "RepoUrl": "https://github.com/ThePoyer/LilisPlugins",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/ThePoyer/LilisPlugins/main/plugins/LilisLittleTricks/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/ThePoyer/LilisPlugins/main/plugins/LilisLittleTricks/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/ThePoyer/LilisPlugins/main/plugins/LilisLittleTricks/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "LastUpdate": 1794759241,
+    "IconUrl": "https://raw.githubusercontent.com/ThePoyer/LilisPlugins/main/plugins/LilisLittleTricks/icon.png"
   }
 ]

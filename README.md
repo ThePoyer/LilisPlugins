@@ -23,6 +23,8 @@ Updates show up in `/xlplugins` like any other plugin.
 
 **Lili's Patch of All the Things** (`/llp`) has small fixes for other plugins, each with its own toggle. All of them start off.
 
+**Lili's Little Tricks** (`/llt`) has small tricks for the game itself, also one toggle each and all off at first. The first one logs you into your last character when the game starts and again after a disconnect. Log in by hand once so it knows who you are, and hold Shift on the title screen if you want to stop it. VIWI's AutoLogin sends everyone in NA to Aether since patch 7.58. This one doesn't. If a future patch breaks the Data Center again, you can pick yours by hand in the window.
+
 ## Good to know
 
 Automation breaks the game's terms of service. Use it with moderation, and don't leave it running for hours while you're away.
